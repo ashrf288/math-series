@@ -30,3 +30,7 @@ def test_version4():
     #input
     n=0
     assert Lucas(n) == 2
+def test_version4():
+    #input
+    n=2
+    assert Lucas(n) == 3
