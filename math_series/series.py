@@ -42,3 +42,5 @@ def sum_series(number,first_number=0,second_number=1):
           fibonacci(number)
     elif first_number==1 or second_number==2 :
           Lucas(number)
+    else:
+        sum_series(number,first_number,second_number)
