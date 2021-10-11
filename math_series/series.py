@@ -21,7 +21,8 @@ def fibonacci(n):
 
 
 
-
+def Lucas(n):
+    return n
 
 
 
