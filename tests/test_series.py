@@ -28,5 +28,5 @@ def test_version3():
     ## lucas testing
 def test_version4():
     #input
-    n=10
-    assert Lucas(n) == 10
+    n=0
+    assert Lucas(n) == 2

@@ -11,3 +11,4 @@
 
   [x]Create a function called `Lucas`
   [x]The function should have one parameter `n`.
+  [x]The function should return the **nth** value in the lucas series.
