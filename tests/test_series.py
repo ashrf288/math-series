@@ -5,7 +5,22 @@ def test_version():
     assert __version__ == '0.1.0'
 
 
-def test_version():
+def test_version1():
     #input
-    n=1
-    assert fibonacci(n) == n
+    n=0
+    assert fibonacci(n) == 0
+
+def test_version2():
+    #input
+    n=4
+    assert fibonacci(n) == 2
+
+def test_version2():
+    #input
+    n=2
+    assert fibonacci(n) == 1
+
+def test_version3():
+    #input
+    n=10
+    assert fibonacci(n) == 34
