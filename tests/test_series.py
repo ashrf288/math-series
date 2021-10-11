@@ -6,4 +6,6 @@ def test_version():
 
 
 def test_version():
-    assert fibonacci() == None
+    #input
+    n=1
+    assert fibonacci(n) == n
