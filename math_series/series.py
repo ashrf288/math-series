@@ -37,4 +37,5 @@ def Lucas(n):
     return b
 
 
-    
+def sum_series(number,first_number=0,second_number=1):
+   
