@@ -22,6 +22,7 @@
     The two optional parameters will have default values of 0 and 1 and will determine the first two values for the series to be produced
 [x]Calling this function with no optional parameters will produce numbers from the fibonacci series
 
+[x]Calling it with the optional arguments 2 and 1 will produce values from the lucas numbers. 
     ( else:
         
     if number==0:

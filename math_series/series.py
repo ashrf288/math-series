@@ -40,4 +40,5 @@ def Lucas(n):
 def sum_series(number,first_number=0,second_number=1):
     if first_number==0 or second_number==1:
           fibonacci(number)
-   
+    elif first_number==1 or second_number==2 :
+          Lucas(number)
