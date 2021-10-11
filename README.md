@@ -10,3 +10,4 @@
   ## Lucas Numbers
 
   [x]Create a function called `Lucas`
+  [x]The function should have one parameter `n`.
