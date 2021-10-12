@@ -24,8 +24,4 @@
 [x] Other values for the optional parameters will produce other series
     ( else:
         
-    if number==0:
-        return first_number
-    if number==1:
-        return second_number
-    return (sum_series(number-1)+sum_series(number-2)))
+   
